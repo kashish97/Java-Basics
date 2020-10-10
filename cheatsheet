@@ -1,0 +1,105 @@
+        Cheat Sheet -Java
+
+Data Types
+
+- int
+- float
+- double
+- String 
+- long
+- boolean
+
+Conditional
+
+- ==
+- <=
+- >=
+- <
+- >
+
+If-Else
+
+- if(condition){
+	-----
+} 
+else{
+	-----
+}
+
+- if(condition){
+	
+}
+else if(condition){
+	--
+}
+
+else{
+	---
+}
+
+- condition?true:false
+
+
+loops
+
+- for(int i = 0;i<n;i++){
+	System.out.println(i);
+}
+
+- while(condition){
+	----
+}
+
+- Enhanced for--- for(int i : list){
+	print(---)
+}
+
+Switch
+
+switch(some variable){
+	case 0:
+	do something
+	break;
+}
+
+
+Strings
+
+- length()--length if String
+- split("")--break a string based on some regex
+- concat -- concat two Strings
+- trim() -- removing spaces
+
+Math
+
+- abs() - calculate absolute valyue
+- max() - calculate max value
+- min() - calculate min value
+- floor() - round up to down
+- ceil() - round up to up
+
+Array
+
+- initialisation 
+int[] a = new int[size]
+length() - size of array
+
+-multidimensional(Array of arrays) - int[][] = new int[size][size]
+
+ArrayList
+
+-size()-size of list
+-add() - add element at last
+-remove()- remove mentioned element from list
+
+Conversion
+
+Integer.parseInt(val)--converts to int
+String.valueOf(val) - converts to String
+Double.parseDouble() - converts to double
+.intValue()
+.toString()
+
+
+
+
